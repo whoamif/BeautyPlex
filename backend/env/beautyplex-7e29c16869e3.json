@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "beautyplex",
+  "private_key_id": "7e29c16869e3e6a25385cb3cb4c12b520d66f539",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmc3jFyy1A9qOs\nSoTeCuZ40kEm14dWMCw0kfLHux5OQIFD0Q55j7OEJj3zuZ6zSDpWKhnAZ/LUTmnX\nvhoIUlLU8banrCGi5it/aBdsheOsWNOfr+losmhFysvlhtXoWMnMu8mlR1y9Y9rD\nZvtItlEqprug+JYpsnBbSm9xtAUzfI0+eIRCDbHld9KBbTImFgmYtKge/kdW4X9O\nGCBOM6ys8VUlrsFrQftsR3OawdbXBs9DORFsyIKFxoCAo7BspBPLrCk8jtnhQ7pv\nS6C0SCX0Wokp6eP7zLSDrfW3TJhM+AdhsBUI7hU7YxWQzjhDlCY2WTKF1srywNAc\nalWffrunAgMBAAECggEAB67Sx0Zui04XFe/GnD0ikDccPL+8BnVoxPBrpV50sqX1\nkXzHz0KbxaDCQUqzEZFm5+0/jQr/QV9xMT0cFIBARIX3qVufndZD8biLRD4V2TGs\navWCr4t0lqwapziHDRd0ERgl4ZQeqrs+MMDDHoMT0gUqKe7vd3M+DmisJjJp/wtQ\npr4p4vvJegEnxA11IdtYFx1/0/MA6xqVYadNeq31Ankdx+lVXzdkLHbRYo5aIquO\nSPOHpDHjdA5Zhllu0syUQA2qyKsrv5rixHf+iQ2o0PkCw6bHqYZQtARONh0EMrT8\ntlVtoZvrfPU5Q+NgiS95uQyWz/EJKrqEDlma1aylQQKBgQDReaeLtHPaRjTzJ9p3\nhnFtU5jFHsyU6ouCnCGCJkkI1ZlKOdx5uURUwSpETBcSE1e+qA4b9SV20RsIApDo\noAs6N3v2A/Eg8a9yx+LaWskeP3qMV7gYKrL01W1LwqZwThjz5ZYZma4Xs8JlNrfL\na4zb47X/+7y1wLHc26/b6yL3hwKBgQDLa4yfbWKgNVaGjrNhOs+Fd1P//YAS4993\neHFm5TFUrXE9hsQJ3sd0wASSHwsvpdYVDGp24xHaiqBV0gcr+q9xAnc3gj8SqR1u\nNt/C9d9ZELYIyD85uRFvmCn22N8rUcqPhby5lzt/ML0wjdNdI9qy9p7O+M7sgmW2\nVPu1QlLi4QKBgEbTmmnrPszLtjWNARou1AVCIcJssoGbeEZWIiJObZ1WE3l8bOaf\nVNJPacoj7B0Jez6UtgiP7/Xnp/siWvq8um8ZuYkqNgqMjWUC3toznhLjJb10H2PU\ndCPCUi0uiHYqgdddhk3rn2iWOCFeyfA20i67JJuD83+Ewt7JTQHP1EfbAoGANyc0\n3HEDAZ8Uk60TM7SHWY+OBeVMmVKRX0oXrSdNJcFU57KnammtuJjrZFboaIXVMqXI\nI+3TBGb7q+kjKqhwcvqRKkq1ITEbGqvkJW8WnIZsZJsukU79TD18e0I31/34JsvC\n7Kr1ZbnoQcbiXOmAvW8ihcluCTAdtb769B1EbeECgYEAmFgdAVJfc96+VIlNWdNb\nnP4TFObsPlKqCkyr7QKb542Ak87FT8y/Gv3WtlxxnSuW6cP3aE6WDQeAMjcXTpIq\n2AaXeodLl21Rhl8XQtQh4qHWJg6F3d0uUos+5Jd5fecjQSivpZhcrg2cfsBK7hp1\nEEcdZOQ9Qz5wzP0QWtx8yvk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "beautyplex@beautyplex.iam.gserviceaccount.com",
+  "client_id": "104276557149752956528",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/beautyplex%40beautyplex.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
