@@ -86,7 +86,9 @@ li {
   height: 100%;
 }
 
-
+.nav{
+  margin-bottom:6%;
+}
 
 .titre {
   flex: 11;
